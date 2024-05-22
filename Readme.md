@@ -1,5 +1,3 @@
-
 ## Screenshots
 
-![API Usage Screenshot](![alt text](./downloads/image.png))
-
+![App Screenshot](./downloads/image.png)
