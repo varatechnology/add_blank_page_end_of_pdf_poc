@@ -1,0 +1,21 @@
+{
+  "name": "add_blank_page_end_of_pdf_poc",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "poc",
+  "main": "app.js",
+  "scripts": {
+    "start:dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RajkumarMondal-VaraTech <rajkumar.mondal@varatechnology.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "pdf-lib": "^1.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
